@@ -1,6 +1,5 @@
 module.exports = {
     getPosts(req, res) {
-        // let store = require('./index.js').store
         res.status(200).send(req.store.posts)
     },
     addPost(req, res) {
