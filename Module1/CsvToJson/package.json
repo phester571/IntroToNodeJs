@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "csvtojson": "1.1.9",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.19"
   }
 }
